@@ -1,0 +1,19 @@
+{
+  "name": "Guacamole",
+  "description": {
+    "en": "Guacamole is a clientless remote desktop gateway"
+  },
+  "categories": ["system_administration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "info@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://github.com/mrmarkuz/ns8-guacamole",
+    "bug_url": "https://github.com/mrmarkuz/ns8-guacamole",
+    "code_url": "https://github.com/mrmarkuz/ns8-guacamole"
+  },
+  "source": "ghcr.io/nethserver/guacamole"
+}
