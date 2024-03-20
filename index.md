@@ -3,7 +3,7 @@
 This is the mrmarkuz NS8 index of modules.
 
 To use the modules listed here as NS8 repository, see the [manual
-page](https://docs.nethserver.org/projects/ns8/en/latest/modules.html#software-repositories)
+page](https://docs.nethserver.org/projects/ns8/en/latest/software_center.html#software-repositories)
 and set the following URL:
 
     https://repo.mrmarkuz.com/ns8/updates/
