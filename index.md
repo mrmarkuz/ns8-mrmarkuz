@@ -1,8 +1,8 @@
-# mrmarkuz modules index for NS8
+# mrmarkuz NS8 repository
 
-This is the mrmarkuz NS8 index of modules.
+This is the mrmarkuz NS8 app beta testing repository. The goal is to move the apps to [NS8 Forge](https://forge.nethserver.org) when they have reached a good level of quality.
 
-To use the modules listed here as NS8 repository, see the [manual
+To install the apps via Software Center from this NS8 repository, see the [manual
 page](https://docs.nethserver.org/projects/ns8/en/latest/software_center.html#software-repositories)
 and set the following URL:
 
