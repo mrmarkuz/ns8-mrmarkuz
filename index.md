@@ -7,3 +7,7 @@ page](https://docs.nethserver.org/projects/ns8/en/latest/software_center.html#so
 and set the following URL:
 
     https://repo.mrmarkuz.com/ns8/updates/
+
+Alternative URL in case the first one isn't working:
+
+    https://raw.githubusercontent.com/mrmarkuz/ns8-mrmarkuz/repomd/ns8/updates/
