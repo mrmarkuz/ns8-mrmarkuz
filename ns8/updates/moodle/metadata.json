@@ -1,0 +1,19 @@
+{
+  "name": "Moodle",
+  "description": {
+    "en": "Online learning platform"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://docs.moodle.org",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-moodle"
+  },
+  "source": "ghcr.io/mrmarkuz/moodle"
+}
