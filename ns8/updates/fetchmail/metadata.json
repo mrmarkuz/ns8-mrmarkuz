@@ -1,0 +1,20 @@
+{
+  "name": "Fetchmail",
+  "description": {
+    "en": "Fetchmail fetches mails and sends them to a mail server",
+    "de": "Fetchmail hold Mails ab und sendet sie an einen Mailserver"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://www.fetchmail.info",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-fetchmail"
+  },
+  "source": "ghcr.io/mrmarkuz/fetchmail"
+}
