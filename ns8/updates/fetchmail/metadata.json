@@ -2,7 +2,7 @@
   "name": "Fetchmail",
   "description": {
     "en": "Fetchmail fetches mails and sends them to a mail server",
-    "de": "Fetchmail hold Mails ab und sendet sie an einen Mailserver"
+    "de": "Fetchmail holt Mails ab und sendet sie an einen Mailserver"
   },
   "categories": ["collaboration"],
   "authors": [
