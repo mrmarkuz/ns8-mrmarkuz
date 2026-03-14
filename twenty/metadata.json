@@ -1,0 +1,20 @@
+{
+  "name": "Twenty",
+  "description": {
+    "en": "Twenty is an open-source CRM",
+    "de": "Twenty ist ein Open Source CRM"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://twenty.com/user-guide",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-twenty"
+  },
+  "source": "ghcr.io/mrmarkuz/twenty"
+}

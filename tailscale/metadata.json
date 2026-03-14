@@ -1,0 +1,20 @@
+{
+  "name": "Tailscale",
+  "description": {
+    "en": "Tailscale is a zero-config VPN service that simplifies secure network access.",
+    "de": "Tailscale ist ein VPN Dienst mit einfacher Konfiguration für sicheren Netzwerkzugriff."
+  },
+  "categories": ["communication"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://tailscale.com/kb",
+    "bug_url": "https://github.com/mrmarkuz/ns8-tailscale",
+    "code_url": "https://github.com/mrmarkuz/ns8-tailscale"
+  },
+  "source": "ghcr.io/nethserver/tailscale"
+}

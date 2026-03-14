@@ -1,0 +1,20 @@
+{
+  "name": "Cal.com",
+  "description": {
+    "en": "Cal.com is an open source scheduling platform",
+    "de": "Cal.com ist eine Open Source Terminplanungssoftware"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://cal.com/docs",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-calcom"
+  },
+  "source": "ghcr.io/mrmarkuz/calcom"
+}
