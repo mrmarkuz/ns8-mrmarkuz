@@ -1,0 +1,20 @@
+{
+  "name": "euro-office",
+  "description": {
+    "en": "Euro-Office is a self-hostable document server",
+    "de": "Euro-Office ist ein selbst hostbarer Dokumentserver"
+  },
+  "categories": ["office"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://euro-office.github.io/documentation",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-euro-office"
+  },
+  "source": "ghcr.io/mrmarkuz/euro-office"
+}
