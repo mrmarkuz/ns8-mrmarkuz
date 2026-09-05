@@ -1,0 +1,20 @@
+{
+  "name": "Headscale",
+  "description": {
+    "en": "Headscale is an open-source, self-hosted implementation of the Tailscale control server.",
+    "de": "Headscale ist eine selbst gehostete Open Source Implementierung des Tailscale Control Servers."
+  },
+  "categories": ["communication"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://headscale.net/stable/usage/getting-started/",
+    "bug_url": "https://github.com/mrmarkuz/ns8-headscale",
+    "code_url": "https://github.com/mrmarkuz/ns8-headscale"
+  },
+  "source": "ghcr.io/mrmarkuz/headscale"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Planka",
+  "description": {
+    "en": "Elegant open source project tracking",
+    "de": "Elegantes Open Source Projektmanagement"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://docs.planka.cloud/docs/welcome/",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-planka"
+  },
+  "source": "ghcr.io/mrmarkuz/planka"
+}
