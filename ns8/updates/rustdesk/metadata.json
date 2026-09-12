@@ -1,0 +1,20 @@
+{
+  "name": "RustDesk Server",
+  "description": {
+    "en": "RustDesk Server is a full-featured open source remote control alternative for self-hosting and security with minimal configuration.",
+    "de": "RustDesk Server ist eine alternative Open Source Fernverwaltungsoftware mit minimalem Konfigurationsaufwand."
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://rustdesk.com/docs/en/",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-rustdesk"
+  },
+  "source": "ghcr.io/mrmarkuz/rustdesk"
+}
