@@ -1,0 +1,19 @@
+{
+  "name": "MeshCentral",
+  "description": {
+    "en": "Full computer management web site"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://ylianst.github.io/MeshCentral",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-meshcentral"
+  },
+  "source": "ghcr.io/mrmarkuz/meshcentral"
+}
