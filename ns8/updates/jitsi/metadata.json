@@ -1,0 +1,20 @@
+{
+  "name": "Jitsi",
+  "description": {
+    "en": "Open source video conferencing webapp",
+    "de": "Open Source Videokonferenz Webapplikation"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://jitsi.github.io/handbook/docs/intro",
+    "bug_url": "https://github.com/mrmarkuz/ns8-jitsi",
+    "code_url": "https://github.com/mrmarkuz/ns8-jitsi"
+  },
+  "source": "ghcr.io/mrmarkuz/jitsi"
+}

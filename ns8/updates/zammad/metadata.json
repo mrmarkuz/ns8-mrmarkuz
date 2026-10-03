@@ -1,0 +1,19 @@
+{
+  "name": "zammad",
+  "description": {
+    "en": "Zammad is an open source user support/ticketing solution"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://docs.zammad.com/",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-zammad"
+  },
+  "source": "ghcr.io/mrmarkuz/zammad"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Onlyoffice",
+  "description": {
+    "en": "Onlyoffice is a web document editor",
+    "de": "Onlyoffice ist ein webbasierter Dokumenteditor"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://helpcenter.onlyoffice.com/userguides/docs-de.aspx",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-onlyoffice"
+  },
+  "source": "ghcr.io/mrmarkuz/onlyoffice"
+}

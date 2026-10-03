@@ -1,0 +1,20 @@
+{
+  "name": "Immich",
+  "description": {
+    "en": "Online photo management",
+    "de": "Online Fotoverwaltung"
+  },
+  "categories": ["multimedia"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://immich.app/docs/overview/welcome/",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-immich"
+  },
+  "source": "ghcr.io/mrmarkuz/immich"
+}
