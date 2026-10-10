@@ -1,0 +1,20 @@
+{
+  "name": "OpenVPN Access Server",
+  "description": {
+    "en": "OpenVPN Access Server is a secure remote access solution to your private network, in the cloud or on-prem",
+    "de": "OpenVPN Access Server ermöglicht sicheren Zugriff auf das private Netzwerk, die Cloud oder On-Premise"
+  },
+  "categories": ["collaboration"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://openvpn.net/as-docs",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-openvpn"
+  },
+  "source": "ghcr.io/mrmarkuz/openvpn"
+}
