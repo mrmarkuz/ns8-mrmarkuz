@@ -1,8 +1,11 @@
 {
   "name": "OpenCloud",
   "description": {
-    "en": "OpenCloud provides file sharing in a private cloud",
-    "de": "OpenCloud stellt Dateien in der privaten Cloud bereit"
+    "en": "OpenCloud is an open-source file management, file-sharing, and team collaboration platform",
+    "de": "OpenCloud ist eine Open-Source-Plattform für Dateiverwaltung, Dateifreigabe und Zusammenarbeit im Team",
+    "fr": "OpenCloud est une plateforme open source de gestion de fichiers, de partage de fichiers et de collaboration en équipe",
+    "it": "OpenCloud è una piattaforma open source per la gestione dei file, la condivisione di file e la collaborazione in team",
+    "es": "OpenCloud es una plataforma de código abierto para la gestión de archivos, el intercambio de archivos y la colaboración en equipo"
   },
   "categories": ["collaboration"],
   "authors": [
