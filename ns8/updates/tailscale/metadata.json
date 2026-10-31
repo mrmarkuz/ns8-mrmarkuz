@@ -1,0 +1,23 @@
+{
+  "name": "Tailscale",
+  "description": {
+    "en": "Tailscale is a zero-config, peer-to-peer mesh VPN built on top of the open-source WireGuard protocol",
+    "de": "Tailscale ist ein Zero-Config Peer-to-Peer Mesh VPN, das auf dem Open-Source-Protokoll WireGuard basiert",
+    "fr": "Tailscale est un VPN maillé pair à pair, ne nécessitant aucune configuration, qui repose sur le protocole open source WireGuard",
+    "it": "Tailscale è una VPN mesh peer-to-peer che non richiede configurazione, basata sul protocollo open source WireGuard",
+    "es": "Tailscale es una VPN mesh peer-to-peer que no requiere configuración y está construida sobre el protocolo de código abierto WireGuard"
+  },
+  "categories": ["communication"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://tailscale.com/kb",
+    "bug_url": "https://github.com/mrmarkuz/ns8-tailscale",
+    "code_url": "https://github.com/mrmarkuz/ns8-tailscale"
+  },
+  "source": "ghcr.io/mrmarkuz/tailscale"
+}
