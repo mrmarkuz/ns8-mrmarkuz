@@ -1,8 +1,11 @@
 {
-  "name": "CheckMK",
+  "name": "Checkmk",
   "description": {
-    "en": "CheckMK is an IT monitoring platform.",
-    "de": "CheckMK ist ein IT Monitoring System."
+    "en": "Checkmk is an enterprise-grade IT infrastructure and application monitoring software system",
+    "de": "Checkmk ist ein für den Unternehmenseinsatz konzipiertes Softwaresystem zur Überwachung von IT-Infrastrukturen und Anwendungen",
+    "fr": "Checkmk est un logiciel de surveillance des infrastructures informatiques et des applications, conçu pour les entreprises",
+    "it": "Checkmk è un sistema software di monitoraggio di infrastrutture IT e applicazioni, di livello enterprise",
+    "es": "Checkmk es un sistema de software de nivel empresarial para la monitorización de infraestructuras de TI y aplicaciones"
   },
   "categories": ["monitoring"],
   "authors": [
