@@ -1,0 +1,23 @@
+{
+  "name": "Pulse",
+  "description": {
+    "en": "Pulse is a self-hosted dashboard and alerting tool for your homelab or infrastructure",
+    "de": "Pulse ist ein selbst gehostetes Dashboard- und Benachrichtigungstool für dein Homelab oder deine Infrastruktur",
+    "fr": "Pulse est un tableau de bord et un outil d’alerte auto-hébergés, destinés à votre homelab ou à votre infrastructure",
+    "it": "Pulse è uno strumento di dashboard e avvisi, ospitabile in autonomia, pensato per il tuo homelab o la tua infrastruttura",
+    "es": "Pulse es un panel de control y herramienta de alertas autohospedados para tu homelab o infraestructura"
+  },
+  "categories": ["monitoring"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://github.com/rcourtman/Pulse?tab=readme-ov-file#pulse",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-pulse"
+  },
+  "source": "ghcr.io/mrmarkuz/pulse"
+}
