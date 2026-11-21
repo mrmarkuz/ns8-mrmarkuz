@@ -1,0 +1,23 @@
+{
+  "name": "euro-office",
+  "description": {
+    "en": "Euro-Office is a free, open-source web-based office suite and collaborative productivity component",
+    "de": "Euro-Office ist eine kostenlose, quelloffene, webbasierte Office-Suite sowie eine Komponente für kollaborative Produktivität",
+    "fr": "Euro-Office est une suite bureautique en ligne, gratuite et open source, qui constitue un outil de productivité collaborative",
+    "it": "Euro-Office è una suite per ufficio basata sul web, gratuita e open source, che funge da strumento per la produttività collaborativa",
+    "es": "Euro-Office es una suite ofimática basada en la web, de código abierto y gratuita, que funciona como herramienta de productividad colaborativa"
+  },
+  "categories": ["office"],
+  "authors": [
+    {
+      "name": "Markus Neuberger",
+      "email": "dev@markusneuberger.at"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://euro-office.github.io/documentation",
+    "bug_url": "https://community.nethserver.org",
+    "code_url": "https://github.com/mrmarkuz/ns8-euro-office"
+  },
+  "source": "ghcr.io/mrmarkuz/euro-office"
+}
